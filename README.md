@@ -93,7 +93,3 @@ Fine-tunes a pretrained MobileNetV2 on the Oxford Flowers 102 dataset (102 class
 - **Matplotlib** for visualization
 - **scikit-learn** for confusion matrix
 - **pandas** for result tables
-
-## License
-
-MIT
