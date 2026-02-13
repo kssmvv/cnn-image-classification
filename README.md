@@ -1,4 +1,4 @@
-# pytorch-image-classification
+# cnn-image-classification
 
 CNN and transfer learning experiments in PyTorch — training a small CNN on MNIST from scratch, and fine-tuning MobileNetV2 on Oxford Flowers 102.
 
@@ -26,8 +26,8 @@ Both notebooks are designed to run on CPU (MNIST) or CPU/GPU (Flowers) and downl
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/pytorch-image-classification.git
-cd pytorch-image-classification
+git clone https://github.com/<your-username>/cnn-image-classification.git
+cd cnn-image-classification
 
 # Create a virtual environment (optional but recommended)
 python -m venv venv
